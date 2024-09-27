@@ -1,2 +1,0 @@
-# aXtrSite
-aXtr Site Yo !
