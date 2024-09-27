@@ -87,7 +87,7 @@ export const Testimonials = () => {
 
           <h2 className="section-title mt-5">What we do</h2>
           <p className="section-des mt-5">
-            From intuitive design to powerful features, we provide state of the art solutions for your AI needs.
+            From intuitive design to powerful features, we provide SOTA Solutions for your AI needs.
           </p>
         </div>
 

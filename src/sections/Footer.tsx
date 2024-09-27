@@ -16,14 +16,13 @@ export const Footer = () => {
         <nav className="navbar flex flex-col md:flex-row md:justify-center gap-6 mt-6">
         <a href="#hero">About</a>
               <a href="#services">Services</a>
-              
               <a href="#testimonials">Expertise</a>
               
         </nav>
 
         <div className="flex justify-center gap-2 mt-6"><SocialPin/>PSG STEP
         </div>
-        <p className="">&copy; 2024 aXtrLabs Inc. All rights reserved.</p>
+        <p className="">&copy; 2024 aXtrLabs - All rights reserved.</p>
       </div>
     </footer>
   );

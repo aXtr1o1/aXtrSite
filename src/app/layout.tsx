@@ -6,8 +6,8 @@ import { twMerge } from "tailwind-merge";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Axtr",
-  description: "Axtr website",
+  title: "aXtrLabs",
+  description: "aXtrLabs Site Yo!",
 };
 
 export default function RootLayout({

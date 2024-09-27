@@ -20,7 +20,7 @@ export const CallToAction = () => {
         <div className="section-heading relative">
           <h2 className="section-title">Book a call Today</h2>
           <p className="section-des mt-5">
-            Take the first step in elevating your business to the next level with AI and AXTR
+            Take the first step in elevating your business to the next level with AI and aXtrLabs
           </p>
 
           <motion.img
@@ -45,7 +45,7 @@ export const CallToAction = () => {
 
         <div className="flex gap-2 mt-10 justify-center"><a href="mailto:info@axtr.in">
         <button className="btn btn-primary">Book a call</button></a>
-        <a href="./src/assets/aXtrLabsServices.pdf" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
+        <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
                 <span>Learn more</span>
                 {/* <ArrowIcon classname="h-2 w-2" /> */}
               </button></a>

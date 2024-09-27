@@ -64,8 +64,8 @@ export const ProductShowcase = () => {
           <h2 className="text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-white to-[#3a3a3a] text-transparent bg-clip-text mt-5">
             Take your Business to the next level with AI
           </h2>
-          <p className="section-des mt-5">
-          At aXtrLabs, we create custom AI solutions tailored to your business needs, delivering innovative applications designed to meet and exceed your expectations with precision and creativity.
+          <p className="section-des mt-4">
+          Our Mission? <br/> To turn your challenges into AI-powered Success Stories, tailored precisely to your Needs and Vision.
           </p>
         </div>
 

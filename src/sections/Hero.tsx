@@ -32,13 +32,14 @@ export const Hero = () => {
             Let&apos;s Build Your AI Future
             </h1>
             <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-            Celebrate AI&apos;s future with aXtrLabs! We craft custom-built generative AI solutions that fit your business perfectly. Let&apos;s transform your challenges into AI-powered success stories.
+            At <b><big>aXtrLabs</big></b>, we blend state-of-the-art technology with creative intelligence to deliver custom-built GenAI solutions. Whether you need smarter automation, personalized insights, or innovative AI-driven applications, we&apos;re here to craft models that fit your business like a glove.
             </p>
-            <div className="flex gap-1 items-center mt-[30px]"><a href="mailto:info@axtr.in">
-              
+            <div className="flex gap-1 items-center mt-[30px]">
+            
+            <a href="mailto:info@axtr.in">  
             <button className="btn btn-primary">Drop Us a Line</button>
             </a>
-            <a href="./src/assets/aXtrLabsServices.pdf" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
+            <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
                 <span>Learn more</span>
                 {/* <ArrowIcon classname="h-2 w-2" /> */}
               </button></a>
