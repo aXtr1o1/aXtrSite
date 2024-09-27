@@ -45,7 +45,7 @@ export const CallToAction = () => {
 
         <div className="flex gap-2 mt-10 justify-center"><a href="mailto:info@axtr.in">
         <button className="btn btn-primary">Book a call</button></a>
-        <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
+        <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b"  target="_blank" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
                 <span>Learn more</span>
                 {/* <ArrowIcon classname="h-2 w-2" /> */}
               </button></a>

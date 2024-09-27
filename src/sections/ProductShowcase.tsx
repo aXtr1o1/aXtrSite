@@ -14,7 +14,7 @@ const pricingTiers = [
     title: "Diffusion & Language Modeling",
     inverse: false,
     features: [
-      "Custom HyperParameter FineTuning (LoRA, QLoRA)",
+      "Custom HyperParameter FineTuning [LoRA | QLoRA]",
       "Language Processing, Summarization, and Classification",
       "Stable Diffusion, Image Scaling, and 3D Reconstruction"
     ],

@@ -26,17 +26,17 @@ export const Hero = () => {
         <div className="md:flex items-center">
           <div className="md:w-[478px]">
             <div className="text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight">
-              AXTR is here
+              aXtrLabs is here
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-white to-[#6b6b6b] text-transparent bg-clip-text mt-6">
             Let&apos;s Build Your AI Future
             </h1>
             <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-            At <b><big>aXtrLabs</big></b>, we blend state-of-the-art technology with creative intelligence to deliver custom-built GenAI solutions. Whether you need smarter automation, personalized insights, or innovative AI-driven applications, we&apos;re here to craft models that fit your business like a glove.
+            At <b><big>aXtrLabs</big></b>, We blend state-of-the-art Tech with creative intelligence to deliver custom-built GenAI solutions. Whether you need smarter automation, personalized insights, or innovative AI-driven applications, we&apos;re here to craft models that fit your business like a glove.
             </p>
             <div className="flex gap-1 items-center mt-[30px]">
             
-            <a href="mailto:info@axtr.in">  
+            <a href="tel:+919994566311">  
             <button className="btn btn-primary">Drop Us a Line</button>
             </a>
             <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">

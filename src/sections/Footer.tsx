@@ -19,9 +19,10 @@ export const Footer = () => {
               <a href="#testimonials">Expertise</a>
               
         </nav>
-
+        <a href="http://www.psgstep.org/index.php?page_id=3"  target="_blank">
         <div className="flex justify-center gap-2 mt-6"><SocialPin/>PSG STEP
         </div>
+        </a>
         <p className="">&copy; 2024 aXtrLabs - All rights reserved.</p>
       </div>
     </footer>

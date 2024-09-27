@@ -7,7 +7,7 @@ const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "aXtrLabs",
-  description: "aXtrLabs Site Yo!",
+  description: "The AI Company",
 };
 
 export default function RootLayout({
