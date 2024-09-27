@@ -15,8 +15,8 @@ const pricingTiers = [
     inverse: false,
     features: [
       "Custom HyperParameter FineTuning [LoRA | QLoRA]",
-      "Language Processing, Summarization, and Classification",
-      "Stable Diffusion, Image Scaling, and 3D Reconstruction"
+      "Language Processing, Retrival Augmented Generation [RAG], and Classification",
+      "Stable Diffusion, Image Translation, and 3D Reconstruction"
     ],
   },
   {
@@ -41,8 +41,8 @@ const pricingTiers = [
     title: "Audio Modeling",
     inverse: true,
     features: [
-      "Text-to-Speech, Audio Classification, and Voice Cloning",
-"Generative Music Composition, Auto Speech Recognition"
+      "Audio Classification, Text-to-Speech, and Voice Cloning",
+      "Generative Music Composition, Auto Speech Recognition"
     ],
   },
 ];

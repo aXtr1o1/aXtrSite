@@ -34,14 +34,14 @@ export const LogoTicker = () => {
           >
 <Image src={claudeLogo} alt="Claude logo" className="logo-ticker-image" />
 <Image src={cohereLogo} alt="Cohere logo" className="logo-ticker-image" />
+<Image src={palm2Logo} alt="Palm 2 logo" className="logo-ticker-image" />
 <Image src={langchainLogo} alt="Langchain logo" className="logo-ticker-image" />
 <Image src={llamaIndexLogo} alt="Llama Index logo" className="logo-ticker-image" />
+<Image src={stabilityLogo} alt="Stability AI logo" className="logo-ticker-image" />
 <Image src={Logoiii} alt="III logo" className="logo-ticker-image" />
 <Image src={mistralLogo} alt="Mistral logo" className="logo-ticker-image" />
 <Image src={openaiLogo} alt="OpenAI logo" className="logo-ticker-image" />
-<Image src={palm2Logo} alt="Palm 2 logo" className="logo-ticker-image" />
 <Image src={pytorchLogo} alt="PyTorch logo" className="logo-ticker-image" />
-<Image src={stabilityLogo} alt="Stability AI logo" className="logo-ticker-image" />
           </motion.div>
         </div>
       </div>
