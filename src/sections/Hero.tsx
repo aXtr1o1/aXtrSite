@@ -39,7 +39,7 @@ export const Hero = () => {
             <a href="tel:+919994566311">  
             <button className="btn btn-primary">Drop Us a Line</button>
             </a>
-            <a href="https://drive.google.com/file/d/18zQqiG7xJR9YsWPoPtFHXcDO6bJB4i_b" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
+            <a href="https://drive.google.com/file/d/1dOfrYDb0li2BaVQzWtnTxsIruJDB-Ejr" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
                 <span>Learn more</span>
                 {/* <ArrowIcon classname="h-2 w-2" /> */}
               </button></a>
