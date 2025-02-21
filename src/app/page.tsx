@@ -6,6 +6,8 @@ import { LogoTicker } from "@/sections/LogoTicker";
 import { Pricing } from "@/sections/Services";
 import { ProductShowcase } from "@/sections/ProductShowcase";
 import { Testimonials } from "@/sections/Testimonials";
+import { Reviews } from "@/sections/Reviews";
+import { CaseStudy } from "@/sections/CaseStudy";
 
 export default function Home() {
   return (
@@ -17,7 +19,11 @@ export default function Home() {
       <LogoTicker />
       <ProductShowcase />
       <Testimonials />
+      {/*<CaseStudy />*/}
       <section id="testimonials"></section>
+      <section className="reviews ">
+        {/*<Reviews />*/}
+        </section>
       <CallToAction />
       <Footer />
     </div>
