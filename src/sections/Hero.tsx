@@ -25,14 +25,18 @@ export const Hero = () => {
       <div className="container">
         <div className="md:flex items-center">
           <div className="md:w-[478px]">
-            <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-white to-[#6b6b6b] text-transparent bg-clip-text mt-6">
-              Transform Your SaaS to <span>
+            <h1 className="text-5xl pb-3 md:text-7xl min-h-fit font-bold tracking-tighter bg-gradient-to-b from-white to-[#6b6b6b] text-transparent bg-clip-text mt-6 mb-6 ">
+              Transform Your SaaS to 
                 AgenticSaaS
-                </span>
             </h1>
-            <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-              Unlock the Future of SaaS: Convert to AgenticSaas and Empower Your Users with Intelligent Automation. Is your SaaS platform ready for the next evolution? We specialize in transforming traditional SaaS into Agentic SaaS, embedding AI agents to create smarter, more autonomous, and user-centric experiences.
+            <div className="mt-6 gap-0">
+            <p className=" text-xl  text-white tracking-tight mt-6">
+              Is your SaaS platform ready for the next evolution?
             </p>
+            <p className="text-xxl text-[#8b8b8b] tracking-tight ">
+               We specialize in transforming traditional SaaS into Agentic SaaS, embedding AI agents to create smarter, more autonomous, and user-centric experiences.
+            </p>
+            </div>
             <div className="flex gap-1 items-center mt-[30px]">
               <a href="tel:+919994566311">
                 <button className="btn btn-primary">Drop Us a Line</button>
