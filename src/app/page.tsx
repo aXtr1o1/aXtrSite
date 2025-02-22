@@ -17,9 +17,9 @@ export default function Home() {
       <section id="hero"></section>
       <Hero />
       <section id="services"></section>
-      <LogoTicker />
-      <ProductShowcase />
       <LogoTicker2 />
+      <ProductShowcase />
+      <LogoTicker />
       <Testimonials />
       {/*<CaseStudy />*/}
       <section id="testimonials"></section>
