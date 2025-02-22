@@ -10,8 +10,15 @@ export const Footer = () => {
   return (
     <footer className="bg-black text-[#BCBCBC] text-sm py-10 text-center">
       <div className="container">
-        <div className="inline-flex relative ">
+        <div className="inline-flex relative gap-3">
           <Image src={logo} alt="logo" height={40} className="relative" />
+          <Image 
+  src={"https://upload.wikimedia.org/wikipedia/commons/c/cc/Nasscom-logo-svg.svg"} 
+  width={128} 
+  alt="social-x" 
+  height={20} 
+  className="relative brightness-0 invert" 
+/>
         </div>
         <nav className="navbar flex flex-col md:flex-row md:justify-center gap-6 mt-6">
         <a href="#hero">About</a>

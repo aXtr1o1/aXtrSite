@@ -25,25 +25,22 @@ export const Hero = () => {
       <div className="container">
         <div className="md:flex items-center">
           <div className="md:w-[478px]">
-            <div className="text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight">
-              aXtrLabs is here
-            </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-white to-[#6b6b6b] text-transparent bg-clip-text mt-6">
-            Let&apos;s Build Your AI Future
+              Transform Your SaaS to <span>
+                AgenticSaaS
+                </span>
             </h1>
             <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-            At <b><big>aXtrLabs</big></b>, We blend state-of-the-art Tech with creative intelligence to deliver custom-built GenAI solutions. Whether you need smarter automation, personalized insights, or innovative AI-driven applications, we&apos;re here to craft models that fit your business like a glove.
+              Unlock the Future of SaaS: Convert to AgenticSaas and Empower Your Users with Intelligent Automation. Is your SaaS platform ready for the next evolution? We specialize in transforming traditional SaaS into Agentic SaaS, embedding AI agents to create smarter, more autonomous, and user-centric experiences.
             </p>
             <div className="flex gap-1 items-center mt-[30px]">
-            
-            <a href="tel:+919994566311">  
-            <button className="btn btn-primary">Drop Us a Line</button>
-            </a>
-            <a href="https://drive.google.com/file/d/1dOfrYDb0li2BaVQzWtnTxsIruJDB-Ejr" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
+              <a href="tel:+919994566311">
+                <button className="btn btn-primary">Drop Us a Line</button>
+              </a>
+              <a href="https://drive.google.com/file/d/1dOfrYDb0li2BaVQzWtnTxsIruJDB-Ejr" download="aXtrLabServices.pdf">              <button className="btn btn-text flex gap-1">
                 <span>Learn more</span>
                 {/* <ArrowIcon classname="h-2 w-2" /> */}
               </button></a>
-
             </div>
           </div>
           <div className="mt-20 md:mt-0 md:h-[648px] md:flex-1 relative">
@@ -61,12 +58,12 @@ export const Hero = () => {
                 ease: "easeInOut",
               }}
             />
-            <motion.img
+                        <motion.img
               src={cylinderImage.src}
               width={220}
               height={220}
               alt="Cylinder image"
-              className="hidden md:block -top-8 -left-32 md:absolute"
+              className="hidden md:block -left-32 md:absolute "
               style={{
                 translateY: translateY,
               }}

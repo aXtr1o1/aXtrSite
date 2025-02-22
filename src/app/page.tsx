@@ -6,6 +6,7 @@ import { LogoTicker } from "@/sections/LogoTicker";
 import { Pricing } from "@/sections/Services";
 import { ProductShowcase } from "@/sections/ProductShowcase";
 import { Testimonials } from "@/sections/Testimonials";
+import { LogoTicker2 } from "@/sections/LogoTicker2";
 import { Reviews } from "@/sections/Reviews";
 import { CaseStudy } from "@/sections/CaseStudy";
 
@@ -18,6 +19,7 @@ export default function Home() {
       <section id="services"></section>
       <LogoTicker />
       <ProductShowcase />
+      <LogoTicker2 />
       <Testimonials />
       {/*<CaseStudy />*/}
       <section id="testimonials"></section>
