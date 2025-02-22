@@ -1,5 +1,5 @@
 import ArrowRight from "@/assets/arrow-right.svg";
-import Logo from "@/assets/logosaas.png";
+import Logo from "@/assets/whiteFG.png";
 import Image from "next/image";
 import MenuIcon from "@/assets/menu.svg";
 
@@ -11,10 +11,9 @@ export const Header = () => {
       <div className="py-5 ">
         <div className="container">
           <div className="flex items-center justify-between ">
-            <Image src={Logo} alt="Saas logo" height={64} width={64} />
+            <Image src={Logo} alt="Saas logo" height={256} width={256} />
             <MenuIcon className="h-5 w-5 md:hidden" />
             <nav className=" navbar hidden md:flex gap-6 text-white/60 items-center">
-              <p>The AI Company</p>
               <a href="#hero" >About</a>
               <a href="#services">Services</a>
               <a href="#testimonials">Expertise</a>
