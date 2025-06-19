@@ -22,7 +22,7 @@ export const Footer = () => {
           <Image src={nasscomlogo} alt="nasscom logo" height={35} className="relative brightness-0 invert"/>
         </div>
         <div className="flex justify-center items-center gap-3 my-4 fill-white">
-          <a href="http://n8ndevelopers.com">
+          <a href="http://n8ndevelopers.com" target="_blank" rel="noopener noreferrer">
           <Image src={n8ndev} alt="n8n dev logo" height={54} className="relative brightness-0 invert" />
           </a>
           
