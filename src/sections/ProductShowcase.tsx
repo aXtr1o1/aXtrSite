@@ -11,38 +11,36 @@ import { twMerge } from "tailwind-merge";
 
 const pricingTiers = [
   {
-    title: "Diffusion & Language Modeling",
+    title: "Language Modeling & Diffusion Modeling",
     inverse: false,
     features: [
-      "Custom HyperParameter FineTuning [LoRA | QLoRA]",
-      "Language Processing, Retrival Augmented Generation [RAG], and Classification",
-      "Stable Diffusion, Image Translation, and 3D Reconstruction"
+      "Hyperparameter Optimization & Fine-Tuning [LoRA | QLoRA] for Precision Performance",
+      "Next-Generation Language Models for NLP, Text Generation, and Semantic Understanding",
+      "Stable Diffusion: High-Quality Image Synthesis & 3D Content Generation",
+      "Advanced Retrieval-Augmented Generation (RAG) for Deep Contextualized Responses",
+      "State-of-the-Art Large-Scale Pretrained Models for Robust NLP Solutions"
     ],
   },
   {
-    title: "Classic ML Modeling",
+    title: "AI Agent Building & Orchestration",
     inverse: true,
     features: [
-      "Time Series Forecasting, Regression, and Clustering",
-      "Pipeline Optimization and Neural Networks",
-      "Data Transformation and Compound Analysis"
+      "n8n Workflow Automation for Seamless AI Agent Integration & System Orchestration",
+      "MCP Architecture Boilerplates for Scalable, Multi-Agent Ecosystems",
+      "Advanced RAG Implementation for Knowledge-Augmented AI Agent Intelligence",
+      "Custom LangGraph & LangChain Agent Development with Raw Python for Maximum Flexibility",
+      "Integrated Business Process Automation with AI and Human-in-the-Loop Validation"
     ],
   },
   {
-    title: "Computer Vision & Vision Language Modeling",
+    title: "Vision Language Modeling & Audio Modeling",
     inverse: false,
     features: [
-      "Image Classification, Object Detection, and Pose Estimation",
-      "Image Captioning, Depth Estimation and Face Recognition",
-      "Visual Question Answering, Optical Character Recognition"
-    ],
-  },
-  {
-    title: "Audio Modeling",
-    inverse: true,
-    features: [
-      "Audio Classification, Text-to-Speech, and Voice Cloning",
-      "Generative Music Composition, Auto Speech Recognition"
+      "Cutting-Edge Computer Vision: Object Detection, Segmentation, and Scene Understanding",
+      "Vision-Language Models for Contextual Image Captioning, Visual Question Answering, and OCR",
+      "Speech-to-Text, Text-to-Speech, and Voice Cloning with Advanced Generative Techniques",
+      "Audio Classification and Sound Synthesis for Immersive User Experiences",
+      "Multimodal Integration of Visual, Auditory, and Text Data for Holistic AI Systems"
     ],
   },
 ];
